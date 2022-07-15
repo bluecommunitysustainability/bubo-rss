@@ -1,6 +1,6 @@
 {
   "Learn Sustainability": [
-    "https://videos.bluecommunity.info/feed",    
+    "https://videos.bluecommunity.info/feed/category/91",    
     "https://videos.bluecommunity.info/feed/category/83",
     "https://videos.bluecommunity.info/feed/category/84",
     "https://videos.bluecommunity.info/feed/category/85",
@@ -12,11 +12,11 @@
     "https://joy.recurse.com/feed.atom"
   ],
   "Green Jobs Board": [
-    "https://jobs.bluecommunity.info/feed",
-    "https://github.com/georgemandis/bubo-rss/releases.atom",
-    "https://github.com/georgemandis/konami-js/releases.atom",
-    "https://github.com/georgemandis/konami-js/commits/main.atom",
-    "https://github.com/javascriptforartists/cheer-me-up-and-sing-me-a-song/commits/master.atom",
-    "https://github.com/georgemandis/circuit-playground-midi-multi-tool/commits/master.atom"    
+    "https://jobs.bluecommunity.info/feed/6549",
+    "https://jobs.bluecommunity.info/feed/5961",
+    "https://jobs.bluecommunity.info/feed/6551",
+    "https://jobs.bluecommunity.info/feed/6566",
+    "https://jobs.bluecommunity.info/feed/6572",
+    "https://jobs.bluecommunity.info/feed/6583"    
   ]
 }
