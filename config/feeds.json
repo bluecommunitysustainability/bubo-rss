@@ -1,18 +1,18 @@
 {
-  "Web Development": [
-    "https://hacks.mozilla.org/feed/",    
-    "https://web.dev/feed.xml",
-    "https://v8.dev/blog.atom",
-    "https://alistapart.com/main/feed/",
-    "https://css-tricks.com/feed/",
+  "Learn Sustainability": [
+    "https://videos.bluecommunity.info/feed",    
+    "https://videos.bluecommunity.info/feed/category/83",
+    "https://videos.bluecommunity.info/feed/category/84",
+    "https://videos.bluecommunity.info/feed/category/85",
+    "https://videos.bluecommunity.info/feed/category/91",
     "https://dev.to/feed"
   ],
   "Blogs": [
     "https://george.mand.is/feed.xml",
     "https://joy.recurse.com/feed.atom"
   ],
-  "My GitHub Projects": [
-    "https://github.com/georgemandis.atom",
+  "Green Jobs Board": [
+    "https://jobs.bluecommunity.info/feed",
     "https://github.com/georgemandis/bubo-rss/releases.atom",
     "https://github.com/georgemandis/konami-js/releases.atom",
     "https://github.com/georgemandis/konami-js/commits/main.atom",
