@@ -5,11 +5,10 @@
     "https://videos.bluecommunity.info/feed/category/84",
     "https://videos.bluecommunity.info/feed/category/85",
     "https://videos.bluecommunity.info/feed/category/91",
-    "https://dev.to/feed"
   ],
   "Blogs": [
-    "https://george.mand.is/feed.xml",
-    "https://joy.recurse.com/feed.atom"
+    "https://thebluecommunity.blogspot.com/feeds/posts/default?alt=rss",
+    "https://bluecommunity.hellobox.co/feed"
   ],
   "Green Jobs Board": [
     "https://jobs.bluecommunity.info/feed/6549",
